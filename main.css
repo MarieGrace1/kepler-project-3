@@ -1,0 +1,21 @@
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.header-icon1 {
+  display: flex;
+}
+.left-part {
+  float: left;
+  width: 50%;
+}
+.right-part {
+  float: right;
+  width: 50%;
+}
+.Skills {
+  display: grid;
+  text-align: center;
+  margin-top: 3%;
+  background-color: lightgray;
+}
